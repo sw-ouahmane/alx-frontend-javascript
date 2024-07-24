@@ -3,4 +3,3 @@ export default function getResponseFromAPI() {
     // Add some logic to resolve or reject the promise
   });
 }
-
